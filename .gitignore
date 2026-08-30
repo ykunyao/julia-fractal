@@ -1,0 +1,7 @@
+output/frames/
+*.jl.cov
+*.jl.*.cov
+*.mem
+.DS_Store
+.vscode/
+.idea/
